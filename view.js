@@ -21,6 +21,6 @@ const calculate = function(radius,logic) {
     return output;
 };
 
-// console.log (calculate (radius,area));
-console.log(radius,circumstance);
-console.log(radius,diameter);
+console.log (calculate (radius,area));
+console.log(calculate(radius,circumstance));
+console.log(calculate(radius,diameter));
